@@ -1,0 +1,5 @@
+﻿Event Name (Correctly spelled proper capitalization etc.),Event Message (Brief),Changes in Good Luck,Changes in Bad Luck,Changes in Stability,Does it affect the Random Chance Value?
+The Big Bang,Woah! That was a big bang!,100,100,1000,yes
+Natural Misfortune,Terrible things will come.,-300,300,0,no
+Natural Fortune,Wonderful things will come!,300,-300,0,no
+Spinning in reverse,Something wacky is going on!,0,0,-1000,yes

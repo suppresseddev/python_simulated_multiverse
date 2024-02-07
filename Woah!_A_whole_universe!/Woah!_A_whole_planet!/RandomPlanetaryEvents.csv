@@ -1,0 +1,8 @@
+"Event Name","Event Message","Miss Message","Value","Change in Temperature","Change in Weather Intensity","Destruction","Accuracy","Cataclysm?"
+"Asteroid (Small)","A small asteroid hit the planet!","A small asteroid nearly struck the planet!",0,0,0,500,33,no
+"Asteroid (Large)","A large asteroid hit the planet!","A large asteroid nearly struck the planet!",0,0,0,1000,50,no
+"Meteor","A meteor has struck the planet!","A meteor nearly struck the planet!",0,0,0,2000,50,yes
+"Asteroid (Bountiful/Small)","A valuable asteroid has struck the planet!","Darn! A valuable asteroid just flew by!",300,0,0,300,33,no
+"Asteroid (Bountiful/Large)","An extremly valuable asteroid has struck the planet!","An extemely valuable asteroid just barely missed us!",900,0,0,800,50,no
+"Solar Flare","A solar flare has passed by!","A solar flare either hits or it didn't happen.",0,100,0,300,100,no
+"Local Star Dies","Our local star has died...","Our local star almost died!",0,1000,0,10000,10,yes
